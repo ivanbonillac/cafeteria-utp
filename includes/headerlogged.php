@@ -10,7 +10,7 @@
         <div class="hidden lg:flex lg:gap-x-12">
             <div class="flex">
                 <div class="py-3">
-                    <a href="./auth/login.php" class="mx-3 block bg-indigo-700 rounded-lg px-3 py-1.5 text-base font-semibold leading-7 text-white hover:bg-indigo-600">Iniciar Sesión</a>
+                    <a href="./index.php" class="block bg-indigo-700 rounded-lg px-3 py-1.5 text-base font-semibold leading-7 text-white hover:bg-indigo-600">Cerrar Sesion</a>
                 </div>
             </div>
         </div>
